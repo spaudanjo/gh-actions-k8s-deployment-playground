@@ -1,0 +1,14 @@
+{
+  "name": "gh-actions-k8s-deployment-playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:spaudanjo/gh-actions-k8s-deployment-playground.git",
+  "author": "Daniel Spaude <daniel@spaude.de>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
